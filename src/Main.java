@@ -9,6 +9,8 @@ public class Main {
 
     Predicate<String> stringIntegerFunction = highOrderFunc.apply(Integer::parseInt);
     System.out.println(stringIntegerFunction.test("-1231"));
+
+    System.out.println("change 1");
   }
 
 }
