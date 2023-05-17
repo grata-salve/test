@@ -11,6 +11,8 @@ public class Main {
     System.out.println(stringIntegerFunction.test("-1231"));
 
     System.out.println("change 1");
+
+    System.out.println("change 2");
   }
 
 }
